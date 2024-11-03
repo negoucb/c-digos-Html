@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<style>
+table {
+border-collapse: collapse;
+}
+tr{
+border-bottom: 1px solid #ddd;
+}
+</style>
+<body>
+<table style="width: 70%;">
+<tr style="font-family: 'Segoe UI">
+<th ></th>
+<td></b></p></td>
+<th>P</th>
+<th style="color: darkgrey;">J</th>
+<th style="color: darkgrey;">V</th>
+<th style="color: darkgrey;">E</th>
+<th style="color: darkgrey;">D</th>
+<th style="color: darkgrey;">GP</th>
+<th style="color: darkgrey;">GC</th>
+<th style="color: darkgrey;">SG</th>
+<th style="color: darkgrey;">%</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkblue; font-size: 21px;">1</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe
+UI';">Corinthians</b></p></td>
+<th>17</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">15</th>
+<th style="color: darkgrey;">8</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">81</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkblue; font-size: 21px;">2</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Ceará</td>
+<th>17</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">81</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkblue; font-size: 21px;">3</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Fluminense</b></p></td>
+<th>15</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">11</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">74,4</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: cadetblue; font-size: 21px;">4</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Santos</b></p></td>
+<th>12</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">15</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">57.1</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">5</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">São Paulo</b></p></td>
+<th>11</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">9</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">52.4</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">6</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Goiás</b></p></td>
+<th>10</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">9</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">-1</th>
+<th style="color: darkgrey;">47.6</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">7</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Botafogo</b></p></td>
+<th>9</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">13</th>
+<th style="color: darkgrey;">11</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">42.9</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">8</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Flamengo</b></p></td>
+<th>9</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">9</th>
+<th style="color: darkgrey;">8</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">42.9</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">9</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Cruzeiro</b></p></td>
+<th>9</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">50</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">10</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Guarani</b></p></td>
+<th>9</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">50</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">11</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Palmeiras</b></p></td>
+<th>8</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">4</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">44.4</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: orange; font-size: 21px;">12</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Grêmio</b></p></td>
+<th>8</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">11</th>
+<th style="color: darkgrey;">-1</th>
+<th style="color: darkgrey;">38.1</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkgray; font-size: 21px;">13</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Avaí</b></p></td>
+<th>8</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">11</th>
+<th style="color: darkgrey;">-1</th>
+<th style="color: darkgrey;">38.1</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkgrey; font-size: 21px;">14</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Vitória</b></p></td>
+<th>8</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">8</th>
+<th style="color: darkgrey;">-1</th>
+<th style="color: darkgrey;">38.1</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkgray; font-size: 21px;">15</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Prudente</b></p></td>
+<th>8</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">9</th>
+<th style="color: darkgrey;">11</th>
+<th style="color: darkgrey;">-2</th>
+<th style="color: darkgrey;">44.4</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: darkgrey; font-size: 21px;">16</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe
+UI';">Atlético-PR</b></p></td>
+<th>7</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">4</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">15</th>
+<th style="color: darkgrey;">-5</th>
+<th style="color: darkgrey;">33.3</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: rgba(255, 0, 0, 0.767); font-size:
+21px;">17</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe
+UI';">Internacional</b></p></td>
+<th>6</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">4</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">12</th>
+<th style="color: darkgrey;">-2</th>
+<th style="color: darkgrey;">33.3</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: rgba(255, 0, 0, 0.767); font-size:
+21px;">18</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe
+UI';">Atlético-MG</b></p></td>
+<th>6</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">10</th>
+<th style="color: darkgrey;">16</th>
+<th style="color: darkgrey;">-6</th>
+<th style="color: darkgrey;">26.6</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: rgba(255, 0, 0, 0.767); font-size:
+21px;">19</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe UI';">Vasco</b></p></td>
+<th>5</th>
+<th style="color: darkgrey;">7</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">2</th>
+<th style="color: darkgrey;">4</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">12</th>
+<th style="color: darkgrey;">-7</th>
+<th style="color: darkgrey;">23.8</th>
+</tr>
+<tr style="font-family: 'Segoe UI'">
+<th style="color: rgba(255, 0, 0, 0.767); font-size:
+21px;">20</th>
+<td style="font-family:Segoe UI; font-size: 15px; color:
+dimgray;"> <p><b style="font-family: 'Segoe
+UI';">Atlético-GO</b></p></td>
+<th>1</th>
+<th style="color: darkgrey;">6</th>
+<th style="color: darkgrey;">0</th>
+<th style="color: darkgrey;">1</th>
+<th style="color: darkgrey;">5</th>
+<th style="color: darkgrey;">3</th>
+<th style="color: darkgrey;">9</th>
+<th style="color: darkgrey;">-6</th>
+<th style="color: darkgrey;">5.6</th>
+</tr>
+</table>
+</body>
+</html>
